@@ -1,0 +1,4 @@
+reportlab
+feedparser
+python-dateutil
+rapidfuzz
