@@ -1,6 +1,6 @@
 name: Build PDFs and Update Dashboard
 
-  on:
+on:
   push:
     branches: [ main ]          # run on any push to main
   # Every 30 minutes starting 06:30–16:00 UTC
