@@ -2,8 +2,9 @@ name: Build PDFs and Update Dashboard
 
 on:
   schedule:
-    - cron: "30 6 * * *"     # UTC
-  workflow_dispatch: {}
+    # UTC time — 06:30 UTC = 07:30 London during BST
+    - cron: "30 6 * * *"
+  workflow_dispatch: {}   # allows manual run from Actions tab
 
 permissions:
   contents: write
@@ -14,11 +15,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repo
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -52,9 +55,18 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true   # ensures GitHub Pages is enabled
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./
-      - uses: actions/deploy-pages@v4
+
+      - name: Deploy to Pages
+        uses: actions/deploy-pages@v4
