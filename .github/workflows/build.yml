@@ -1,10 +1,15 @@
 name: Build PDFs and Update Dashboard
 
-on:
+  on:
+  push:
+    branches: [ main ]          # run on any push to main
+  # Every 30 minutes starting 06:30–16:00 UTC
+  # (= 07:30–17:00 London while BST is in effect)
   schedule:
-    # UTC time — 06:30 UTC = 07:30 London during BST
-    - cron: "30 6 * * *"
-  workflow_dispatch: {}   # allows manual run from Actions tab
+    - cron: "30 6-15 * * *"     # :30 at 06:30..15:30 UTC
+    - cron: "0 7-16 * * *"      # :00 at 07:00..16:00 UTC
+  workflow_dispatch: {}          # manual Run workflow button
+
 
 permissions:
   contents: write
