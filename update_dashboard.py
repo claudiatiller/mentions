@@ -1,7 +1,7 @@
 # update_dashboard.py
 # Generate a local index.html dashboard for your daily PDFs.
 
-import sys, pathlib
+import sys, pathlib, re
 from datetime import datetime
 
 # ---- CONFIG ----
@@ -14,27 +14,47 @@ if len(sys.argv) > 1:
 
 OUTFILE = BASE_DIR / "index.html"
 # ----------------
+def date_from_name_or_mtime(p: pathlib.Path) -> datetime:
+    """
+    Prefer date encoded in filename like 'Friday, 26-09-2025.pdf'.
+    Fallback to filesystem mtime if no valid date is found.
+    """
+    m = re.search(r'(\d{2})-(\d{2})-(\d{4})', p.name)
+    if m:
+        dd, mm, yyyy = map(int, m.groups())
+        try:
+            return datetime(yyyy, mm, dd)
+        except ValueError:
+            pass
+    return datetime.fromtimestamp(p.stat().st_mtime)
 
 
 def collect_pdfs(root: pathlib.Path):
-    """Return { group_name: [(relpath, filename, mtime), ...] } newest-first."""
+    """Return { group_name: [(relpath, filename, ts), ...] } newest-first.
+       ts is a timestamp derived from filename date if possible, else mtime.
+    """
     groups = {}
     for sub in sorted([p for p in root.iterdir() if p.is_dir()], key=lambda p: p.name.lower()):
         pdfs = []
         for p in sub.glob("*.pdf"):
             rel = p.relative_to(root).as_posix()
-            pdfs.append((rel, p.name, p.stat().st_mtime))
+            dt = date_from_name_or_mtime(p)
+            pdfs.append((rel, p.name, dt.timestamp()))
         pdfs.sort(key=lambda t: t[2], reverse=True)
         if pdfs:
             groups[sub.name] = pdfs
 
     # PDFs directly under BASE_DIR (optional)
-    root_pdfs = [(p.name, p.name, p.stat().st_mtime) for p in root.glob("*.pdf")]
+    root_pdfs = []
+    for p in root.glob("*.pdf"):
+        dt = date_from_name_or_mtime(p)
+        root_pdfs.append((p.name, p.name, dt.timestamp()))
     if root_pdfs:
         root_pdfs.sort(key=lambda t: t[2], reverse=True)
         groups["_root"] = root_pdfs
 
     return groups
+
 
 
 def build_html(groups):
