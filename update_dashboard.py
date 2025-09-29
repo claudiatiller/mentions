@@ -341,7 +341,6 @@ def build_html(groups):
        data-mtime="{mtime}">
     <details>
       <summary>{fname}
-        <span class="pill">{weekday}</span>
       </summary>
       <p><a href="{rel}" target="_blank">Open in new tab</a></p>
       <iframe src="{rel}"></iframe>
