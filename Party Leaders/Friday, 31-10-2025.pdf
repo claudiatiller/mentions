@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 35 0 R
 >>
 endobj
 2 0 obj
@@ -22,54 +22,56 @@ endobj
 endobj
 5 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15245879/Parking-space-goes-sale-London-service-charge-too.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 584.3969 532.3489 595.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2025/oct/31/uk-politics-prince-andrew-latest-news-updates-labour-conservatives-keir-starmer-rachel-reeves)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 491.0719 532.3489 503.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15245879/Parking-space-goes-sale-London-service-charge-too.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 572.3969 227.5369 583.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2025/oct/31/uk-politics-prince-andrew-latest-news-updates-labour-conservatives-keir-starmer-rachel-reeves)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 479.0719 185.2009 491.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/breaking-keir-starmer-breaks-silence-36167868)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 445.0719 404.7739 457.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.express.co.uk/news/politics/2128209/keir-starmer-kemi-badenoch-reform-uk)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 401.0719 414.7909 413.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2025/oct/31/uk-politics-prince-andrew-latest-news-updates-labour-conservatives-keir-starmer-rachel-reeves)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 311.0719 532.3489 323.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cityam.com/labour-ploughs-ahead-with-higher-welfare-spending/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 281.0719 368.2879 293.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2025/oct/31/uk-politics-prince-andrew-latest-news-updates-labour-conservatives-keir-starmer-rachel-reeves)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 299.0719 185.2009 311.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15245209/Starmer-Rachel-Reeves-illegal-letting-scandal-emails-revealed-licence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 174.3969 527.8039 185.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2025/oct/31/ex-prince-andrew-should-answer-us-questions-on-epstein-if-asked-uk-minister-says)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 179.0719 531.3589 191.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15245209/Starmer-Rachel-Reeves-illegal-letting-scandal-emails-revealed-licence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 162.3969 303.0649 173.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2025/oct/31/ex-prince-andrew-should-answer-us-questions-on-epstein-if-asked-uk-minister-says)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 167.0719 131.1919 179.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources <<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -80,136 +82,119 @@ endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15242879/Anger-Brits-told-register-POLICE-want-use-e-gates-German-airports-despite-Keir-Starmer-boasting-Brexit-reset-deal-speed-travel-UK-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 768.3969 531.8179 779.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15245209/Starmer-Rachel-Reeves-illegal-letting-scandal-emails-revealed-licence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 768.3969 527.8039 779.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15242879/Anger-Brits-told-register-POLICE-want-use-e-gates-German-airports-despite-Keir-Starmer-boasting-Brexit-reset-deal-speed-travel-UK-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 756.3969 527.8219 767.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15245209/Starmer-Rachel-Reeves-illegal-letting-scandal-emails-revealed-licence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 756.3969 303.0649 767.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15242879/Anger-Brits-told-register-POLICE-want-use-e-gates-German-airports-despite-Keir-Starmer-boasting-Brexit-reset-deal-speed-travel-UK-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 744.3969 118.4839 755.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.cityam.com/labour-ploughs-ahead-with-higher-welfare-spending/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 637.0719 368.2879 649.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cityam.com/labours-evidence-free-approach-to-policy-is-baffling/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 625.0719 367.7749 637.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15242879/Anger-Brits-told-register-POLICE-want-use-e-gates-German-airports-despite-Keir-Starmer-boasting-Brexit-reset-deal-speed-travel-UK-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 530.3969 531.8179 541.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/debate/article-15244423/STEPHEN-GLOVER-Keir-Starmer-save-terrible-Chancellor-lose-certainly-mark-end-too.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 532.3969 530.8099 543.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15242879/Anger-Brits-told-register-POLICE-want-use-e-gates-German-airports-despite-Keir-Starmer-boasting-Brexit-reset-deal-speed-travel-UK-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 518.3969 527.8219 529.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 18 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/debate/article-15244423/STEPHEN-GLOVER-Keir-Starmer-save-terrible-Chancellor-lose-certainly-mark-end-too.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 520.3969 373.5709 531.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15242879/Anger-Brits-told-register-POLICE-want-use-e-gates-German-airports-despite-Keir-Starmer-boasting-Brexit-reset-deal-speed-travel-UK-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 506.3969 118.4839 517.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 19 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcXpRb2FPdDRzNGhVUXFhdFNoellBckhjWTNVaVFzU1oxR2t0Y2VubzVmMTVqR2drNVNEN05ZamFycHk5d2JranFneGxseVJKeFNuVzdZUUJFa0cwTjMycHhMZjc3dDJrYlhTM1pKOWNQT2ZYclBKMk5wSUFWcUUtZGdIcGJwTDZFd212Mmc5VjZKQUNqeFNKMDBHTUhWbXRpbVAwV1BDal9LeUpGQTN0WmlyMW1aUGtMb1hrRnU3eHdNdzRidjFha0t1TkEtaE45WEg4?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 443.0719 532.3039 455.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkpiSzlfVWZhU3ZXbFdYSl9VTWNLU1R5SjNfRkw3ZlRYR2dXZGNTb2J6MWpjNHQ3UUpsbHJTMWhTcjM1UXdXdkp1UXVYNmtKQ1hfZy1Cdy1sR2RYVzkxeERjMUg2cndDVFN6UEJlYzdGWFRLS2E1WmlSeWxZZHhPRnh4SWVTZkF3Y0xqLVU4X25uUGgxTDRsSnhRd0pHa19KWG9GdDNtamk5WkNWTGpydl9jX281WkJrbnFGVFJmb3oyZ9IBxwFBVV95cUxNUVJwd283OXhPNXdYZ3pUT09qeE1ZTHk4bTNjeHRVQVVDWHlLb3J3dHBPZWxKR0RlY3duRkZ2WTZKZmNucFViQ2Q2TmhyMERFWXdxVmt5UTZYNlNKRjkwOFZQejF1LXRPX0c2aVk0Y1NGN0tuYy1vSy01NS10Q2llVktiNWFwaUFzWTQ4elpJUkVfelZuY2ZxN2lneXdrSFdLMnhwRnlwZDVGMW1MWmUwWlFyVkhvX3QtX0NxV3FSb3FMQjROaEpz?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 373.0719 532.2859 385.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 20 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcXpRb2FPdDRzNGhVUXFhdFNoellBckhjWTNVaVFzU1oxR2t0Y2VubzVmMTVqR2drNVNEN05ZamFycHk5d2JranFneGxseVJKeFNuVzdZUUJFa0cwTjMycHhMZjc3dDJrYlhTM1pKOWNQT2ZYclBKMk5wSUFWcUUtZGdIcGJwTDZFd212Mmc5VjZKQUNqeFNKMDBHTUhWbXRpbVAwV1BDal9LeUpGQTN0WmlyMW1aUGtMb1hrRnU3eHdNdzRidjFha0t1TkEtaE45WEg4?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 431.0719 525.2749 443.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkpiSzlfVWZhU3ZXbFdYSl9VTWNLU1R5SjNfRkw3ZlRYR2dXZGNTb2J6MWpjNHQ3UUpsbHJTMWhTcjM1UXdXdkp1UXVYNmtKQ1hfZy1Cdy1sR2RYVzkxeERjMUg2cndDVFN6UEJlYzdGWFRLS2E1WmlSeWxZZHhPRnh4SWVTZkF3Y0xqLVU4X25uUGgxTDRsSnhRd0pHa19KWG9GdDNtamk5WkNWTGpydl9jX281WkJrbnFGVFJmb3oyZ9IBxwFBVV95cUxNUVJwd283OXhPNXdYZ3pUT09qeE1ZTHk4bTNjeHRVQVVDWHlLb3J3dHBPZWxKR0RlY3duRkZ2WTZKZmNucFViQ2Q2TmhyMERFWXdxVmt5UTZYNlNKRjkwOFZQejF1LXRPX0c2aVk0Y1NGN0tuYy1vSy01NS10Q2llVktiNWFwaUFzWTQ4elpJUkVfelZuY2ZxN2lneXdrSFdLMnhwRnlwZDVGMW1MWmUwWlFyVkhvX3QtX0NxV3FSb3FMQjROaEpz?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 361.0719 529.7749 373.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 21 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcXpRb2FPdDRzNGhVUXFhdFNoellBckhjWTNVaVFzU1oxR2t0Y2VubzVmMTVqR2drNVNEN05ZamFycHk5d2JranFneGxseVJKeFNuVzdZUUJFa0cwTjMycHhMZjc3dDJrYlhTM1pKOWNQT2ZYclBKMk5wSUFWcUUtZGdIcGJwTDZFd212Mmc5VjZKQUNqeFNKMDBHTUhWbXRpbVAwV1BDal9LeUpGQTN0WmlyMW1aUGtMb1hrRnU3eHdNdzRidjFha0t1TkEtaE45WEg4?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 419.0719 531.7459 431.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkpiSzlfVWZhU3ZXbFdYSl9VTWNLU1R5SjNfRkw3ZlRYR2dXZGNTb2J6MWpjNHQ3UUpsbHJTMWhTcjM1UXdXdkp1UXVYNmtKQ1hfZy1Cdy1sR2RYVzkxeERjMUg2cndDVFN6UEJlYzdGWFRLS2E1WmlSeWxZZHhPRnh4SWVTZkF3Y0xqLVU4X25uUGgxTDRsSnhRd0pHa19KWG9GdDNtamk5WkNWTGpydl9jX281WkJrbnFGVFJmb3oyZ9IBxwFBVV95cUxNUVJwd283OXhPNXdYZ3pUT09qeE1ZTHk4bTNjeHRVQVVDWHlLb3J3dHBPZWxKR0RlY3duRkZ2WTZKZmNucFViQ2Q2TmhyMERFWXdxVmt5UTZYNlNKRjkwOFZQejF1LXRPX0c2aVk0Y1NGN0tuYy1vSy01NS10Q2llVktiNWFwaUFzWTQ4elpJUkVfelZuY2ZxN2lneXdrSFdLMnhwRnlwZDVGMW1MWmUwWlFyVkhvX3QtX0NxV3FSb3FMQjROaEpz?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 349.0719 529.8019 361.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 22 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcXpRb2FPdDRzNGhVUXFhdFNoellBckhjWTNVaVFzU1oxR2t0Y2VubzVmMTVqR2drNVNEN05ZamFycHk5d2JranFneGxseVJKeFNuVzdZUUJFa0cwTjMycHhMZjc3dDJrYlhTM1pKOWNQT2ZYclBKMk5wSUFWcUUtZGdIcGJwTDZFd212Mmc5VjZKQUNqeFNKMDBHTUhWbXRpbVAwV1BDal9LeUpGQTN0WmlyMW1aUGtMb1hrRnU3eHdNdzRidjFha0t1TkEtaE45WEg4?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 407.0719 398.0329 419.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkpiSzlfVWZhU3ZXbFdYSl9VTWNLU1R5SjNfRkw3ZlRYR2dXZGNTb2J6MWpjNHQ3UUpsbHJTMWhTcjM1UXdXdkp1UXVYNmtKQ1hfZy1Cdy1sR2RYVzkxeERjMUg2cndDVFN6UEJlYzdGWFRLS2E1WmlSeWxZZHhPRnh4SWVTZkF3Y0xqLVU4X25uUGgxTDRsSnhRd0pHa19KWG9GdDNtamk5WkNWTGpydl9jX281WkJrbnFGVFJmb3oyZ9IBxwFBVV95cUxNUVJwd283OXhPNXdYZ3pUT09qeE1ZTHk4bTNjeHRVQVVDWHlLb3J3dHBPZWxKR0RlY3duRkZ2WTZKZmNucFViQ2Q2TmhyMERFWXdxVmt5UTZYNlNKRjkwOFZQejF1LXRPX0c2aVk0Y1NGN0tuYy1vSy01NS10Q2llVktiNWFwaUFzWTQ4elpJUkVfelZuY2ZxN2lneXdrSFdLMnhwRnlwZDVGMW1MWmUwWlFyVkhvX3QtX0NxV3FSb3FMQjROaEpz?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 337.0719 531.7999 349.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 23 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/raf-fighter-jets-f35a-nato-b2855616.html)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 329.0719 412.3429 341.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkpiSzlfVWZhU3ZXbFdYSl9VTWNLU1R5SjNfRkw3ZlRYR2dXZGNTb2J6MWpjNHQ3UUpsbHJTMWhTcjM1UXdXdkp1UXVYNmtKQ1hfZy1Cdy1sR2RYVzkxeERjMUg2cndDVFN6UEJlYzdGWFRLS2E1WmlSeWxZZHhPRnh4SWVTZkF3Y0xqLVU4X25uUGgxTDRsSnhRd0pHa19KWG9GdDNtamk5WkNWTGpydl9jX281WkJrbnFGVFJmb3oyZ9IBxwFBVV95cUxNUVJwd283OXhPNXdYZ3pUT09qeE1ZTHk4bTNjeHRVQVVDWHlLb3J3dHBPZWxKR0RlY3duRkZ2WTZKZmNucFViQ2Q2TmhyMERFWXdxVmt5UTZYNlNKRjkwOFZQejF1LXRPX0c2aVk0Y1NGN0tuYy1vSy01NS10Q2llVktiNWFwaUFzWTQ4elpJUkVfelZuY2ZxN2lneXdrSFdLMnhwRnlwZDVGMW1MWmUwWlFyVkhvX3QtX0NxV3FSb3FMQjROaEpz?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 325.0719 531.2329 337.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 24 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.express.co.uk/news/politics/2128209/keir-starmer-kemi-badenoch-reform-uk)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 215.0719 414.7909 227.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkpiSzlfVWZhU3ZXbFdYSl9VTWNLU1R5SjNfRkw3ZlRYR2dXZGNTb2J6MWpjNHQ3UUpsbHJTMWhTcjM1UXdXdkp1UXVYNmtKQ1hfZy1Cdy1sR2RYVzkxeERjMUg2cndDVFN6UEJlYzdGWFRLS2E1WmlSeWxZZHhPRnh4SWVTZkF3Y0xqLVU4X25uUGgxTDRsSnhRd0pHa19KWG9GdDNtamk5WkNWTGpydl9jX281WkJrbnFGVFJmb3oyZ9IBxwFBVV95cUxNUVJwd283OXhPNXdYZ3pUT09qeE1ZTHk4bTNjeHRVQVVDWHlLb3J3dHBPZWxKR0RlY3duRkZ2WTZKZmNucFViQ2Q2TmhyMERFWXdxVmt5UTZYNlNKRjkwOFZQejF1LXRPX0c2aVk0Y1NGN0tuYy1vSy01NS10Q2llVktiNWFwaUFzWTQ4elpJUkVfelZuY2ZxN2lneXdrSFdLMnhwRnlwZDVGMW1MWmUwWlFyVkhvX3QtX0NxV3FSb3FMQjROaEpz?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 313.0719 527.8129 325.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 25 0 obj
 <<
-/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 
-  23 0 R 24 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkpiSzlfVWZhU3ZXbFdYSl9VTWNLU1R5SjNfRkw3ZlRYR2dXZGNTb2J6MWpjNHQ3UUpsbHJTMWhTcjM1UXdXdkp1UXVYNmtKQ1hfZy1Cdy1sR2RYVzkxeERjMUg2cndDVFN6UEJlYzdGWFRLS2E1WmlSeWxZZHhPRnh4SWVTZkF3Y0xqLVU4X25uUGgxTDRsSnhRd0pHa19KWG9GdDNtamk5WkNWTGpydl9jX281WkJrbnFGVFJmb3oyZ9IBxwFBVV95cUxNUVJwd283OXhPNXdYZ3pUT09qeE1ZTHk4bTNjeHRVQVVDWHlLb3J3dHBPZWxKR0RlY3duRkZ2WTZKZmNucFViQ2Q2TmhyMERFWXdxVmt5UTZYNlNKRjkwOFZQejF1LXRPX0c2aVk0Y1NGN0tuYy1vSy01NS10Q2llVktiNWFwaUFzWTQ4elpJUkVfelZuY2ZxN2lneXdrSFdLMnhwRnlwZDVGMW1MWmUwWlFyVkhvX3QtX0NxV3FSb3FMQjROaEpz?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 301.0719 354.9859 313.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 26 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tvshowbiz/article-15245271/braless-Tyla-Amber-Davies-Lottie-Moss-Rachel-Zegler-look-partied-lead-starry-departures-2025-Glamour-Women-Year-Awards.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 734.3969 530.2969 745.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.cityam.com/labours-evidence-free-approach-to-policy-is-baffling/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 181.0719 367.7749 193.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 27 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tvshowbiz/article-15245271/braless-Tyla-Amber-Davies-Lottie-Moss-Rachel-Zegler-look-partied-lead-starry-departures-2025-Glamour-Women-Year-Awards.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 722.3969 532.0969 733.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/debate/article-15244423/STEPHEN-GLOVER-Keir-Starmer-save-terrible-Chancellor-lose-certainly-mark-end-too.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 88.39685 530.8099 99.19685 ] /Subtype /Link /Type /Annot
 >>
 endobj
 28 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tvshowbiz/article-15245271/braless-Tyla-Amber-Davies-Lottie-Moss-Rachel-Zegler-look-partied-lead-starry-departures-2025-Glamour-Women-Year-Awards.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 710.3969 77.70491 721.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/debate/article-15244423/STEPHEN-GLOVER-Keir-Starmer-save-terrible-Chancellor-lose-certainly-mark-end-too.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 76.39685 373.5709 87.19685 ] /Subtype /Link /Type /Annot
 >>
 endobj
 29 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/health/article-15242685/Eye-expert-warnnig-dodgy-Halloween-contact-lenses-blindness.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 604.3969 532.3579 615.1969 ] /Subtype /Link /Type /Annot
->>
-endobj
-30 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/health/article-15242685/Eye-expert-warnnig-dodgy-Halloween-contact-lenses-blindness.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 592.3969 273.5449 603.1969 ] /Subtype /Link /Type /Annot
->>
-endobj
-31 0 obj
-<<
-/Annots [ 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources <<
+/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 
+  23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R ] /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -217,93 +202,180 @@ endobj
 >> /Type /Page
 >>
 endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcXpRb2FPdDRzNGhVUXFhdFNoellBckhjWTNVaVFzU1oxR2t0Y2VubzVmMTVqR2drNVNEN05ZamFycHk5d2JranFneGxseVJKeFNuVzdZUUJFa0cwTjMycHhMZjc3dDJrYlhTM1pKOWNQT2ZYclBKMk5wSUFWcUUtZGdIcGJwTDZFd212Mmc5VjZKQUNqeFNKMDBHTUhWbXRpbVAwV1BDal9LeUpGQTN0WmlyMW1aUGtMb1hrRnU3eHdNdzRidjFha0t1TkEtaE45WEg4?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 711.0719 532.3039 723.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcXpRb2FPdDRzNGhVUXFhdFNoellBckhjWTNVaVFzU1oxR2t0Y2VubzVmMTVqR2drNVNEN05ZamFycHk5d2JranFneGxseVJKeFNuVzdZUUJFa0cwTjMycHhMZjc3dDJrYlhTM1pKOWNQT2ZYclBKMk5wSUFWcUUtZGdIcGJwTDZFd212Mmc5VjZKQUNqeFNKMDBHTUhWbXRpbVAwV1BDal9LeUpGQTN0WmlyMW1aUGtMb1hrRnU3eHdNdzRidjFha0t1TkEtaE45WEg4?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 699.0719 525.2749 711.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
 32 0 obj
 <<
-/PageMode /UseNone /Pages 34 0 R /Type /Catalog
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcXpRb2FPdDRzNGhVUXFhdFNoellBckhjWTNVaVFzU1oxR2t0Y2VubzVmMTVqR2drNVNEN05ZamFycHk5d2JranFneGxseVJKeFNuVzdZUUJFa0cwTjMycHhMZjc3dDJrYlhTM1pKOWNQT2ZYclBKMk5wSUFWcUUtZGdIcGJwTDZFd212Mmc5VjZKQUNqeFNKMDBHTUhWbXRpbVAwV1BDal9LeUpGQTN0WmlyMW1aUGtMb1hrRnU3eHdNdzRidjFha0t1TkEtaE45WEg4?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 687.0719 531.7459 699.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 33 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20251031113926+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251031113926+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcXpRb2FPdDRzNGhVUXFhdFNoellBckhjWTNVaVFzU1oxR2t0Y2VubzVmMTVqR2drNVNEN05ZamFycHk5d2JranFneGxseVJKeFNuVzdZUUJFa0cwTjMycHhMZjc3dDJrYlhTM1pKOWNQT2ZYclBKMk5wSUFWcUUtZGdIcGJwTDZFd212Mmc5VjZKQUNqeFNKMDBHTUhWbXRpbVAwV1BDal9LeUpGQTN0WmlyMW1aUGtMb1hrRnU3eHdNdzRidjFha0t1TkEtaE45WEg4?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 675.0719 398.0329 687.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 34 0 obj
 <<
-/Count 3 /Kids [ 12 0 R 25 0 R 31 0 R ] /Type /Pages
+/A <<
+/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/raf-fighter-jets-f35a-nato-b2855616.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 597.0719 412.3429 609.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 35 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2412
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
 >>
-stream
-Gatm<@;jm[')gZo0u*h!hRgoGA]p*T==hlYc0dH'F0,uI-,>(tBoBAEC.ZRNpXe:I,rr4Lf>8\FCT!>/cHLY,hU%3Jr*fR^abeluB^hT*MeKOE2X6?:G"^Gn=+@ktmTd7@e,HkfhN(#^*A]a*f.4=\24m'ST6)fZcu@JF=ZhOTQ;d5mQe@DurIOCI[QD&8Hm,kj4&K+Z$:>=9<kR%)_0<(3$DTRg@5)6bom=Cc`."T:=.9*47Ii+Mf^:\YqVu9HAMf5kIDdp1DR^_`gP;JV1igD@hFGM3DGfIm3u?\g`m8QD:7l?^6IpXIGE3fSYA8UG\%`N/d+jMtEs5t<E]BnNhK>Yp.0d8]=K(6<kIN@+O]@][P]N=iU+,+=<Tuo=b;SeFE-+9tnMK+#nGEBPiS!e-3kliC@Eg6nhab3i)852O0Qm^I5/0ll`t>TGaZ^541nd65hNH#2<0Q,!%bm"uBC_,9s-`ll+Z4\Q>j"GG%j\kK:Lcnb]PcT("h7DKTaR4$9:B_&,C$m:=e]qFE%.M$O.\*JbZ`@nZ-ZrQ]^Ut4]oWEL44GpU$VbA-2AK1lo1UK[0j_l&9hL[B/!GBkoJ3uAJ8@>3k`VY>U#Yn->_d0r;kId[Yr<CfZnChhiqY"2VJQXHctd;+I7gSZ,M,1sHl8"/k&/`n`it)ON1[6OgJgg5DtK'br]Duo9XS%1@ng0@PH$*:&C;gG0%-Vq4bVu+I1ZVcJ@,*HndBu0eU3"X_/EE5ND)<\D;u/DIMcFF%"W5o\)`Ag^X0<YcW+O>FGZ=!h#[=IZ!;%KU[-?1+U`UsM?HmmSs=RR=&:"j-`"Nud)2@i'gC;O)T#JE_K0,WRWoc>kVl:^??3S+BVe^/;T]Fd/f2Hm(*!BS10L^49&Pn4J^c]sL"+[!.toH/O><*?R\]Tg+HF*6g:C0S@k.">23mY^g\'gr4IDnc0pp!nKn&W6r(=(Cc/i?;h/<+gjJnnX+4(I#p(&//#EE9rQ.Wp7%B=Qth@*".;<!+QjF[m))B0A5C/C0'pHMnMnTBon1SHb+r]\@3m]I]OJZ2'_clD>B"^22elB$305KWeLjfAdSIE3)3V>2oFouQ\F:g)-MO\:!&Ik4Q^;I156F$ZeR=tV,ZoqVeVL-CNld^bR"XXlNO4Ij'K37N,#rN4Sd^_2"g%47u!,.qHMb:oa,L\U*F/*f<3*,3@a7MNQoDh'-[2+<Sd"mpms>1X=A\]S1SU'GR!6[[_GR[MT%R/ZpVL=>BihEP5TVmI7_rBU1-[2q<i4u,?3d7"aE#6uM[K,VS=Ta&$li")i1LN("De#qeK$<1W;>,@=?'U)`q_,RR8<"n,tjB@Wo70.U:FU0=C0p?o60hbp0JUp$DW6cCr[(IX\U?U`LGE8B)2uBbkB4+S8Zdn*;J7bADAF4L87+nNglDmHjIfZ^DNeR7?BaG6ES`&57Xp\TKr,H36_7`GH]l]E3R9\=WA@F$Z;@+kDA+X%no+PGn&_=K5?S&kgiAguNKNZ-Vl6-;B'ca7-oK_lKp"Nj+3;a"D(1sk:$23(k%r,;,F'NIFqp0YQ2jAM86!`)Jg`GA/HEUXG%+[VA!m_au5rH;<0;RQJM14+EG:WJ!.m!_jH%GZ_YVXV=+Z2a;F@"is+E1]k24Qr7B@+LUkRccfG`$&)n9N_T:>(CA3ACkhr&"<<qD0]+U2d(PEo%WIL_Nl64n`ZZAI_E1m!TCFZM2&h:\7Ta$_@q\*.9U+B%u"KCD+]7/q8R4m?,6?L%AP4P)(+O@%ahF_)$iq@"7qJ4'EG8gWW$XRK1S\nC!eN+rJWr(RQ;RZiJg_1EKAliPkZF%OI+oQZ]f"]QP-B_^VJ?9,rpP%DZf6iL'67n`'U$oPlLcS+nb!+ecp-pR/(XZb0P39[q@2J*/?L`Wf].IgW:68E8jMNK^,:==6aD\VG94\<G)WW\*AY6AU?b"OaH(*Kk<jP38uO.F(1!]T\?.8`KVEZ%cYI8DCk6h77J)3MJ[E:FCfe-3=rQUY+74dj[Rg\=bHZck&9PL`J=2%Vju-/TClgmaL^fE(/ug2U?h(b^]40FaB>OU5_009&+4Foj??b)BR[u<]sdeEK-]VoAuZ*I.'=%`<q]GG>=;\k;\[1.Vh:R8`Mk]qoJ`6gY^mpPOsW,*1#AO!"W(!O9em)J0o7"7VJ;jLeI,1$`;hMHXW%[:R"A'qXJMd=.j8EJM&qP%Be2/%E9N!>CBYIpl.3t^d'guHCCUt1Ia2GPZdu7\pSA5_AAeh].:a3H5R1(.74!HcUE3oD0Hm=NCOd0G9HhRn585RK*]f60ftQk1lQt`.BcbSfDB5qZn93Tj"`R$E&c#8""m,#(CmJM+KL4rqJ<4>&M6gsJj);sehC\'X$&ZW1ojnEb3R6#g^t:!@OQ\6ore+dqX%BGkgf\5*,=!L~>endstream
 endobj
 36 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2505
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tvshowbiz/article-15245271/braless-Tyla-Amber-Davies-Lottie-Moss-Rachel-Zegler-look-partied-lead-starry-departures-2025-Glamour-Women-Year-Awards.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 350.3969 530.2969 361.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-GauHLD,]H8(B-M4idA>VhJ5Ik#VY&'g<pRP<)=0G`j4l1P;K']8S>Ur,6%Fc3WT@bL[;+S=p8Kc0B_GBSo]oM=SQZET3_Y>4G6>I#2=^f'^T#6#/^g^%mU$f[!L1X03[K6l?V'jlrMqsfACU\2V>(ZX6-3i]`HYefs9Fg$c<6B-^9BZ(nJPZQ$N`QN;?3tkcn62&M(A8E(<E=T.UYiYoK+_(9-$`o.)k3i;<es#8mHp=E9BZY4&DQja,*ag!HZtb@jZZIEPp#2uYiI@t\jo,'0hs*6V^3)3b3)'6REV//F/LD[_WpU[3hX3j6J<Tdj_3pHh>cf;UdT7]UPDc^5uuP&!Ln#^moMN%9n6XtDBAIVFuLNAX9B,E0jFAr:\uN+bm5Q\gfl/&mngme<,A\7XflECk%)Pn>&n&QEHccgVG<`&4-iR)YsZ,V!6H-X+qg(6['*n[R`-/6:jt8)`pAqHr:e1lb`6=Xo]m<;K\qL$q,B-'Za8ch9DiV-;'r=iIfDCp+q`j8F/>*IB<r<q^hU$l7>dj>30+3Qt/,8f)Rn;L.^jNWSpqI270g9I416P=,cC"eZ#E,37Sn\:P$X:.#F[!Lp0-'U5ZO&%qmjD.Rj,AVQ-`.&AR:Oa>N0qbeM%E<"YsU^%0G\FakI<3Y.FVfl`Vn/i$fp01Y&'o6&lc*/(A^^;84/7PV^$m*9IHX&9IVF!U?]fCfSBFG_[&W.H(C6E<;E!Q&V^8Z34@nHiWK^-?(iZ8P;_EuPF^i=/&!=3.19C<ZW6@u9R0s3@TnjT>aJ4GH@A<O"//20^=%CKp:6VO<j$hH=hP!>Fo`>"U^bt\mCaNAHN2]!q%E>ij4*Ft0YgnYHGdA;FN)DMCsBEj)6n>Q&4,`kt[phEV>i<Hq*&!tN0!RF8KF[.g50Q[\.?-oDK<CH!Y]#*@[)U`^C'M+]lI?h7mb4cC)[abOu>LEeR-)uV9"VfX@5?YlG<JBN'-X;ckr%%ZhFIS9a<7#Mp.TfoU?k0:r!24KjCgWaAqp<$d*4H0.OBkoO33.`pkZb`)+&[[o%n#giZC/h2cCf]=pCMupF+meOM(gAe;Y!E#i!X:aa21Zo1(4>>!`Ku@(G%+*)Yu_:87:^F-8jm><fi-[H'V>Dk@bAcU.#Ge+>WW@7k$f3c$K/Aic(+uLS"j*IHWR!na(i/iRV2I.''f]n=GFnMinME(t;f*1G(I66'6f@G99_:*&#4/=9-(_Th,g5!2n!+jRM$0.92`Uo2nY?8)kYj0^Ku_jT9n`X`pK&rc1<uf`V]J:._V=S8)Vh?BV(-\!e65OYudP$hT7+*I4X()k7Lm1P-H2*fBoMFf/ca=`"Psdou'CmaehGlhlmV+3mJ$n:L34VDnJaE]nH#;CuKofmRRPj@A<lmbo'"j)/d;^hWULK\#j1jf/UdK`J;b1/Z/CGCa7qr42#qmf(qiqH7enD/OWbKfZ80M"!:@<9;;CO'@OfnT`i0^!Y<:pFR7VSBdCL13i52KCS/0-h'3GJUSVdoAJSNfH8R^kBUTrVi@>[*,U+J`p)Q0*;,'H*s9QMrGfU.\(j%`FdCnKh"@3o8`NRi\ke3Ccd#[kT8oQB]@#iD6S342I-BP#TQg.g<W/+;q)o-E=YBC6jS\SWIm%oA^3ei/H#N+'DFU1$D`#md?2ptW4^/=jmQ/'l42&^V`t*CWf;&<U]]?_LEdTnf"h0\6K4H`$>)_k/'=nKtWHH$H8b[P`[r.s[ft4ZVW2k7Y4-5)><+VtVhgZ\ds.L*&9A@@0>LRc?]ku)1^C0M:]0Cksk3M0(W9!\tN.Zmj)RVb;;q";\8IR)t(m@H9#j`*s&]Fp+UCP4VrqM%Y84"4:5jq=5-EDZ^Fn_Y%r\aCPK)1Arhqn@d3^d!bV0'-=RL2J.H%Y[ndpSs%A#JU#>J4brqp^]gN?YN"MgUi1m%qb@ff&;%P#Pn]^rhS<G"C.H18._P/9`"^]trb_ESV[DnU&ddW/@BL1?GjX9WQ/g19J-P`98/.3)/#,g\%Z-'sQ>>R:P/Zi&(1P13W(`($t52U_@`-VW`g)$8gp@rE"^N<Q=tr]&)&)C_ta*?(*H'hafrmLm8.q5q`!9L(.m^!TRa[qM>`crNRZUrKQ7(VN>.dX5(J51#"ar)h2=OFfN2;q6qGc@PrPtij`KE;,\\AMB'MfC;_AmE%2;+Vm(u[RTG[hZY,(m,V.;h3q`deCFkP(2NKaA_A^jEXB*:s-"PPjO?#W2B=/^/6tY[2l$U7Vp/^5Jp4C;5<I:3+B-N/j"p#RI!X`kXL"3N<Roc,s)\D%S^&F(a(-W5`k&Grf[m^,\"b.B'Mu)?)Z'0Jbid7h.:%tQ01uAH/&POGZ%G-?XO<2271dN8E]nk5A\.Dhb#!J[L%g1no%eqT.4,2RW`6hZ1ER5.<0b"pKLe+okZa+QZ96C_mK/'q,U4b"WX&Hqa9VmQN,oMoY+cQnAD?XVR/uN</KC>\q+"aG`$e1l)]cDlXE_^Km3d&rG2an!9r?$B+,(9~>endstream
 endobj
 37 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1182
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tvshowbiz/article-15245271/braless-Tyla-Amber-Davies-Lottie-Moss-Rachel-Zegler-look-partied-lead-starry-departures-2025-Glamour-Women-Year-Awards.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 338.3969 532.0969 349.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tvshowbiz/article-15245271/braless-Tyla-Amber-Davies-Lottie-Moss-Rachel-Zegler-look-partied-lead-starry-departures-2025-Glamour-Women-Year-Awards.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 326.3969 77.70491 337.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/donald-trumps-nuclear-move-branded-36166174)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 147.0719 409.3009 159.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/Annots [ 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 36 0 R 37 0 R 38 0 R 39 0 R ] /Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+41 0 obj
+<<
+/PageMode /UseNone /Pages 43 0 R /Type /Catalog
+>>
+endobj
+42 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20251031123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251031123402+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+43 0 obj
+<<
+/Count 3 /Kids [ 12 0 R 29 0 R 40 0 R ] /Type /Pages
+>>
+endobj
+44 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2326
 >>
 stream
-Gau0AD/\/e&H88.EM#.5$Y<0g[M9o%d\Z>_fio8;(cDL6)!N5YTh(6?m(0r\8',rA+K^V3Q!r)&bM>>-4a5rudYE&8]E*7?LZ)GI4G*A2n0CP45(treZ[^:Z.hf[Z"f'=iOG5k:EHjO5dN@Bdl`moU)3#e7Jrlnj']oi5Y!jqonGCQ$?5U/+.>e1dKc)@ACLuHWU(_H>?&8/66t)<8*jV1-oC#,)&ANhm5;<,_8+IV<\Fhe<Jl*:p*6'E<.%ZC%d;mkk+,38BM3"N$*VQEp[_^LH6N[Cc<[HZ:<D?t`'(:g!rjSp>*j?4h+kK=pm\9uK)f70kW6k#)3.rdZ%Q[#!loA/q#j)I'DSmRKKm!q6=ObcgY*IJo`/!&uDOmm;m(AUhFs#<MKQ9OQQtfW_7gcB;i.-[I\HoN)/e0:c`h!7(oP$f`k'?/,9aQHp\V7^6%Tf]2;#$hDoEoUZ[#[S`[$=tRf,od4`&a7+GT%lB2!..L8tr_0^6X@V2>:e:[92!nfp'k7aC`@)]+oUFP5U*2U^^5f8%.WsFMrF!=>3>#@%K<`Ad'f#[P_Tn'?*$^)Vl>*LMfqn5>`8@[1]@@600$\K<ftcGpOk)o$UXpR3$b)&%0lQ4NYHm8NMrkAg-G;?1M9U[_'7EnRroW<,QX*#l%hZ`W66=Wl_Xo<2>ACKTpe:W&bNIgjqk)dI1a[6%?fc@BEaY4h^[Qq>u,I:b6;-]!aoQ@no&2B"^R[+3R)g&IMbMU:&HkY)Pc2<@`,?_\9h_koSJ"mN-U65(t(sd<?Mp-+E+A1O?spi2YCk]mI0Q!9_iti)`85'+X!^,0V[f&AA\>3?cb*Inoce1AV]49$&u20XuDtbkAXC[N>pp6B[j$AQ4(.dTb&S-='E17"n;t@jtZL,I<_2WpGMp;.8(j);la>igb>6/l*ED<5Lt;9![f)9]cbH$f;WA#t:IuT?!P;\EHLmdT$Me+,qW3O@7=hYaH<4W_6CVU0P#FC:9gkp%5J8l?@q+Ki51)Wqua$[O5'*h*X8AT&5X$:sQbGA)Ql`2;_H:Ju](1BL@4)<@7n_+8;&m^66CZE>MLL<Z7Fo^$.B0R,Fl<E#Zbd3!`<i6(d7H-4F2FUtJmGf9DB9nS"*-EG&X0KOi<A9L=nQ0-oKs?$H]oomNsD<[WP5*V]1`(uX'g"*!rU(,rE+~>endstream
+Gau`TfoFh,&q0LUe5N+&%OEa%2BW:lG\3+Scbp\OaGYV-(>0<^ig0#paNE,tF>pUdAeAGg\b8:_aBklASN9cqJ:.8*lt93-]p[@-.\Io[q3$><In92*F?+jDf;nVe`&sF\8+$8(lj)!:5c<L[AL7QIlB,4`1)a(Jm/'(2NbMfrmk#4KQ@=<R+.1P^HI#a:V4no8C/L7R5)#AD,t5tb(DQ^Slik*>"n)?p[c/!K8+SrZrk5St2qYXpD\Vn8dr65P3$.g&cP4+PZ#:^K1sMql0kPA>;IFn\6fZl\iuW%7o[a$6BPRV4r_@YJ&)01i-[,B&??4.E:S.\2#\R"&T6ci`XD0qD?^5>*Ieq=j'+@H6RcRL&SRfBenRL+jKWEeOmTq_4n%r`Vmp10a^c4@_DrCPO.#8k@XFI]g`H/V"&n1-78:8(rj64$B/TH3Faj(Oa+aRp$Y"7(oiO#V87oRmBP,)4*8X/;_ZaW,P_^L?>$fC^#,?C\;1G55H]l2_n,%em76f2D1Q8>V\jh8Ip8]E#HWN3%O7o=ZXNl_3pe*g3d,DThq;[_\A;fD.38q=.TI%tjq!-p2YIIq<L/V,;UB(9sIs/p;&*N\mcoC8C<N,mR[!M3r:"^MG:%+#DJ-&q!8PXqX9XRJq7b5b^rmS%71Za-Bn>`$t+)L.cO7@j%r<8DV`=-X4Bi^.hj2thWjB<:$7T;s<Zo`_=p_2927F;s9>H&(F"n/TgW.p<GSI0eUq6aTPQ>0R8(c">F#9gf>9oTQ<4X9U$q14Y=>,j/JFLVn?lSdnq=H57gQ:t%4joUN0mb::iCaoe^@R4e%P9D-%DafI#DEE8Afs$8+^8\K&t(If^PW0pbQ56Sm's59Tte`#Z6Gf45/+HF08!T%f>l(_jr3(39?6\6skJ2_\=YM];!HT`UcMcEqBjKSlDkri3@cIN?`c$9U.6QnWa@BNq'WT5"-9?ecZ6EMNM#KBeKE)gU$l5Dmf-#'&ohP!aSVdEX8KTnsNH7pd73"(Kt\GIAh>mDhf8'e*QjQ-s.<k+ol8.C:WLOl9u#/9+':b/cn-AN,3WU!1AQIOgGKR\bn3RQiN-UOLJ6Za@B-W*2I19lm+c\2MUY1RnF,M,CdaoZ$nZF8&YAsGZo(c6"QTI"20E`.f^R?dfqQV5H0FBQL!;4^I"02erfOg#"H9k'Voa2;3fI!D)`Vess?/3&ri_K+U;L[$?*:a.d$$o\6p7MIuHU>S&gHS+^"BG?EFPL61Y\c2D*l^:pr#Q_FR"rgYG$>aqsl/rD_67O\-"M%q+6OK-&GU69c1:a65(CT`RU`KS;2iCodFtu6NVNooH^?7kD&ouj8BJTNi$$tD]=DJ=0?`Cp\reBHNPr]761qKG0dJkYZ6I?a_A\ar"$CTDF<[aGP#IHfEjJaZJ>F,\u7!&9g54T?Z)Wgh!`_JdPZt/oEm;V_:Hiit\\HdLr)?N"OG5,m))Ju82EoW"XU:G!S5R(p`M9dlM.20'LM_38#ig/8<UF,2fqt.34a!<mFHtLT$9s3"M/S.r/ANLDS;lr<C52C4#Ig'!d;*qke"pgk@fo:K"XH^.6[(d29JI\R>A\&NaZ]Ss8l9>/GTkc(rCjJ9YiUes?O#,S!*A=6K4C#;$6Co!K"?5Zg(bQ8t6k?#"d&aq:6a*pZkqO,c01Q_Ap5D7]9q@_[\7ba5&g3-6KP@]8oc?mNL^$IZ`cFprIc%!]L#]]/WU,;=Q_.L":T2B-"bmj`*ls$@ml2SY`716R(IeRc?1gJqk[Nn2,NQV,rVh'(LY]7#R!&J:6hVHeE(J]`nP4\Xe-R@r7hlhi.';]s.W\.lTM8H!I[AUI)-)-IP"4eb,g9dIlf?bSP$0X/_L7('f*eH50Bj!XTeZj57tFZOeH]lB"h8T;fPgV:(IhoEgcj_QR?o,pWsbFc@+Pu)He)_$fj4kME88gYOT6mf2.K\0%U)re[K_-H&AZ\-!5F7$+Q%%X5Loi6q'>VRI%Gu6CQu:ub/5Z]4+o`$oIN=UmlW/8_o1l,8O5?'ej5%O3lpKqFOL_M*4N].J%iQ?dqdXG-C-f$.F>fV6J/NF7@o-b9=hH5"jPq?(#$j>=i2)j65uP<XUiZ'W<?>^p7I=*kWN=;W]^Q*F4aEi1\Vk:\.k1go_+W\Zo6UqMB(8d%he<D6=MBZL&l$+B'Z2P[;/F[qh8^hrilR$61Fo#NA-<a:u12HC__%)ImIlF+Bl_36>5t>+D9%*(LNYU#0Dh#aAS;X>ibP9`Zf7V$MW31BFE78To9[/W?G?uka%XI&*^Y^?0+7L)^K[MH0TK;)AOrg1p`LL0PG#/a4%L)o]dN-^>cg~>endstream
+endobj
+45 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2939
+>>
+stream
+Gb!SlCMtCW(B*+)_U;%<b\R^\i"7_Z[?;#]:4OTd4Oqm&<#NiCld<-IOC(6(<<XY9VSgXOmY<)#Q'>Y-pRZGRY>&QCO-tI/+[T6?.Q'q2>0**VZWo%+Vi;V?LMn:*Q?1kY037]=`JS*TX!W/i'FR(>b\+EX9]sqEZHG\SXOJ`@#uTZM0YTu.47kdkg7gJO*Yf<1BV\`M8bCPb&P^)(Z9:R@@9'OG@,&o^5EH%;f!!.t,3Ln%aWoHJ>H_cVX*(I\U0=Bk"FKF<[qlH7I_TK0K\gB(h,ms$/8Gq-<:H/Fj@-&T?E]9Y2Dg)jU)OnM5q/OD=TY(\b:,>"<k2ZWoho-/&Q41,`:YS"4\D?F`/JcK+<5I&'T3`/\g6k)J#_[q=?n7NWJ<KTe'7+4'PQRUU9?o_.?a]@?(XLsjWB2@BpZ\$ZNmkJ,YSJJ6m'Zoh0@Jk<.&r$o?d5[AD8bbA>IJR_e5XJp/MG.,6N\o>+nZ&nOfI-a/anI&b.#rB[)d&I(&OD5\nO*6r5-B)L8Ra'9"YQ#-;L9+8#:&ei\:l?5ga5VM3>)5]taG?OL.qf@OC(GWGphU3ft<R"?>aQrWoMs"`O(^4k*pI10$8C'ps2%T8_$Frj'Ua/:?[fckm>+pnA9Le0EJD?0)bju/H[GY-_M(%YNM"VX=HUX5Mo;7*/faKs+\#q(kjD5*\4P\?R"%Rf>nY0rGI*Fm]6gd<k9d5b.H,mf_K>%9r_:HrqcW<?WAMBe@eAq3ZZ/L#^==aYq1J!a6rGB=-3kB#e&>5REX,)W7ES;T@#kBsOQ2id#/(^'+"7(mGCa"&jjA'3%S'gY&UT"l:CgZL:_ArK*5pT#TN$R8FQTNuhqpU>0c"Ag`t_1e.G#^R&JGT'GLZN-mS^cE;l$Ra6;M0Io0]l.DW?9bGok<B1(A[DFC&W*Xn;a<sjOc"E&<'_<o.Le'@Q&#81Qd6,Zk1]K4ZmJWWJ<cpdiWV^["tS2t+s[aE9I-l>Z</Y%O33,)]%]ZQC#qeumO/_sf>4ii?sj#[@Nng,EbufP!:YHZ+=&A.0Dk>WR%Ee0r89:8q^Om^`$`]+m)+)Lc=bJqJFalXn_F%FEfuto*V]h-!@*%A.RsB2>edLZeET"@=BVg*383"5)Wb`0*.knR7piQHD%R4i7*7(_!c)D!_+`!O8i@#%Ipt#m6KTGX',J`LK,QLK@l.k2<6$I!O:i6-!TG..8U#`;+a^d<g9O$\-E^/7Pk"Q_D,77?ZAkg&?Nf.k77qCfRBf?Q"@j>"O)qAqo8[nX]N-\^4MiP(YU0q<Ym4p[_4!%pfRe1Qi6:jRUWVOLL[dB7YiZ2IjU""4i/A%',luT\a!pFrk"RtJ_`P[6`LL<hNIO/Q-m)6XD!Ro/=arcu0c^Nk!7Go@]m"?4]i7\(!<42P?T8,/<+s9L]a>m-d\dGp;C[p-<'0m:YfRP0PUBSFei_8FbEZ%R5PQANJF9u!^aoLR]*&O6i5PAUCD92,)JMcEE+6C>'13VQ>T0q2lNUc"_r_)j"GL>U'BQ8p[dE\E'6I!7@_\d@N"c,*fDZ.Eou%,N`USOYd&]KjZcn#A>e"Mbjk>DsSL.V8q9`^;2*1`<<B3,>cdAt(CIc^=9R_Ic=T&FE@eRObX]N'Lp[a`Q_E+!uBYc2O;I$"8%#Du"s((Bc<JR[mc)]g-??$4>DEgZos-_2gUT$J^VrLq/S+LuSk`!+?J_@*rQecp?=PHd2S+QFO[Cl%:eTGKTD7)/lQJJ$#HSA"Om,lm`N-rZOG0IeT)gajPcf(Z=Wk1dMT22rYB5_S.T%0;=T7[SioTl&a_K$miHJ%$!hQ78+[s[c5[78DI]5KRN;98WV[$a[-r.eV>Qi!PO1C]fH`7THQ%gV4$<ETc7MiDf6PPrSkGt)gAbkg.o<H!07>t+I.LI#JcF@T(Vfm:<F**_Ug.(C"uW7`(IDo7t`Dl<7]=.Am!7>'Rdg9])lqm$1J*IF!LSI?L5rf&h[WH/`;B23Z]T:b!4L6'72p#q.>BD/Iph-<*:8"7,^dGknp>P3TI20,R<e$-H)RmZm_4^(VED``qbF#<SK_ba>;c?.Lrh7MN!=Pl'8qmdg5Z>$bf]n`lO>%AHe'=6HY)JV._RSWma@<VOFnRuo+$l&#fRVOZl5*)5S1?HXF+;iBQT<9NlFORXB7)tn_2naA^o%/Z47XRA4*k"*SZSMpnlOe&QLOoI^[NF&Pk\c,uZTkdcS]>=1ShuVn:U0f%EWW+R[K!00rG#K$7.c=]R\G$Z-tG7CPYE88>!%lafXoC#XneKZ</OkEqZ"&>2(BDCq8+g\/Odq\$!sZ]f53/sFmYJ3<"RJ5aEF50P9>B:e`M-[$McnG2WjO=H\Q,TKfXi6Gs*WYMZmX6Ld7r=I,0XiTX6Mt)4g*cPO4Q%S`_N>gp@CgSX4=!4a"!A3.qX)Ko%D^RIkV,h=X@;P$2`J,"0(=X+sf]B>&7H7pAM/oh9?,8qucQU%4.b+j+>?Q>T+-+E[n]j&VmY'#K4k+ER[4$'d.XR#*I%<'=SFMF&-[lbVY6lEgr]BC\lmcLb/hA?/"mO"NCu^&=t$5QuC!fP9j_pg5[>-%6#I]RrEoY;h/!AeORjImOTZQB,?o]N9aZS]8QAUPi=CqdH7DJasfMZoW3/O&I\92H-k\.29SfE.D_r91Xm_&3;(9#W@=Zk-M6E,rgrS&NMT*0nduQ#:sD^,iN/?Tl[20KLKk4L-u/Y8>.G-6/j[cMi-O.4Ce>s9<)&nj^ilF*u>4SU/JUR\PEqGj6]jeWNnS5J9U$Ed4e.S0DAOL)GF<\#]S/B2[_,B*&"$*aHW>dELL/]KTL!6:doqIdn2rKo]rlKe74<KbDNhmU$etXgGlD7ghU/Uc615V<V_p'Q<hY\M_k">0%r/]n.'d>!'RDlLCZi2*bSU8$j4M"L[k97gT/K`LDRW/LS56.!-&duZN~>endstream
+endobj
+46 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2159
+>>
+stream
+GauHK@<:-^'E6iqZ(LHo],3(<6c`!bL0Ods&njT@[$f.n#[:[_[R;DR8q-`@CnN%JMQ^sqL)D,BY]fbdp=Vq=>^V\34j!bb6`>,5&.cW,OF";Ei<>a+Y<KX'h`8&&>1LXhH8TY5X$P\.Vjc9\OS.(NqkV,!'E!1,,sa>;0S@LSjlm,,kAX"X=ht9:0iK!:9GfC9L)UYQd8<$'Wrqir05ua5pnYEK8S8J0h]TRcn95hn'umc:YMiJ#/[%U9fa+Sp:CD4o;BX_AlS\s1k?$to5[9eGS%mG].dmgH),p>8Gt%<$'j1#`KieDgB51uj/nU2!Lo::u6.:/bGYs*%9(>Kqi9u>VLo%(Mi'<EE&)SH4rd<r&k"b,?5Q?A6T9&=)JoA!$n[<H<4e#d>bI2B9.<MDV@:V<^42r$!,12n;[e2gL]\m(+nsY2(Ne6DUlU&&sQAF71Q7=k>WSmeLJUbf%X,)V(s&ja*^%.eqhe;jJGn`3PWcdX<@OK1>ohhh<fMYd`H)[j,b\Bc9)Y0Cg.FY]>O*fYfG)f(f<Y,^)?UZ(!K8J3jN)'WgrGFA/Icr%sV_9d.j6/,+*JaS**H`EX7"3tq?Q"+.rTK4VPD<#d$V-fn?EF!urb:7!Y%cHi7;qUGfK3#2F9LoYenfGOc8tpCkTRY]%aR2cNL&O?&(`,@leBLA:X7J11teU.l&kf;]5dj#oWCDJl1'&f/m,h0G/hpKBWeu;gSfJ-$r=#fYt)H5('UJflgq/crtB9jhE*`H'+U5rjMP@h)7>eUEdU3_Ks.j9fPo]\$N'6N938e]Tu4%t9h:u_@d(-WEBemhnG'GU:tLfumaTV4H8%ORec1f[l_"B2!I4a>q\=YS%=SHs$Z9!k>]=Q0$KMmrfT[PkYXpAr(BVFJ$D`2CC1A%gg)U`_ipnZW0MeZ-JDR+lWier^l2*]FakquCbo+5%K<<s"p:]80mLaVbfp6N;Vl`e(P4)7ScE5*&HCG6bZ%sq8C9W[8oVl]m7@%oq>eo#Zf_/Y/`6#6JM_p1a6:D42bbj*6r1In"XnP=,["A6Nr2h#H/sfT;V68Ike\thNfer\tbEQL$l^FPHB?FinC6E'OF/FCO*J(a]'CRU\)Pg5)9NFK'JnAd;nad-?k$B`4Ocg6nhZ;c-AK6_M`!RA.,pMmRDmW!IrYY;IcYJ,oODX-iOZ:1n?7rMMcMVp9Jbp/1Z3<4OM1G=n/d*]PRJ"Jrqtu-FlcnABq:C8th=uBsV_Lr^qbjtgf)@fBT5FB^9GGGPV]f<AoDmUu"T'87j\-c3Kf"N?kXgd6:_CTq7L;`HRc0K1O@jd''SU^J#:6C'>Ss-fMSTWr@cL]/XC4u\/1T;C\9aj9L8g>=^*HdjDFu^q:b\2k"MC3jLj)$dTl)N_MG*/'h'G;%K&'D[CE)c;5SNcpLIZJ/rc%CGJ"V7cKIXV7f[O#3`nI386I-sZiBfcJ&4^6FgNlUtL7mPQ_qp5$WI[MG6%g*hbc\9/[s6m>r"0P`n[1>j=>Ik(=QqgY!-+S$e39</<.@8"URacJ231nSgC.Zd@>-uQK3UakL_t?Sck`]dU))UDQ66"P>#9-I6!G958ob0JX89*?/&Sj(k*p^gaQ8(>Ccn4T!j@W!7;?VT4-oA2c?H2E]2R)4Z#k0sVE4t1*QrP;SgT^<VVo'r3URUZG/!J"aj3.d3]f?m*Qqrji,LqarY#("%#6)0PeKVfq8iPU,@?X\bC/`6ofj&5k*431CU-BBZg-9kG5"ZZn*k\%e0%m"B[>Y><6-%X@Sh=r\Gm4qg'dT_.aS.O6.M`D4tksuH4^d^VK%H+8@`g0f>k%XHj9r-+tNFjq6g"E>@3jk4EMaid0%@l^+6Eo9P>KL4alEnR&j[FF.:dZpXVK'H"<`tj"ZM55)KX2_>[D)lURRo\PdZ3guF6JG=3?>IVHnM%KE8^(J=RFakI^dZ)r:heT^>oouA!6-<"%%-\tI,_ILUj(W3VrEsB)Y'[g`A#?Eu&"0,I#m/5dX*V?eRNT.9IY4lU=[gtfHY!Gp4b`\Fu:XiY-kT2:^k-UN)<gGK$r5`B_0;U-c92bcj#!C*!g\'E-j'B$I@r1\BZVJQGI!+"fFaQ%'%FV>E#hIb*C;g'W<U8X,&291Z0!l>i6Rh*f0_dkJ>'"?2X&nfU?]K%kkl~>endstream
 endobj
 xref
-0 38
+0 47
 0000000000 65535 f 
 0000000073 00000 n 
-0000000134 00000 n 
-0000000241 00000 n 
-0000000353 00000 n 
-0000000472 00000 n 
-0000000587 00000 n 
-0000000886 00000 n 
-0000001185 00000 n 
-0000001421 00000 n 
-0000001646 00000 n 
-0000001965 00000 n 
-0000002284 00000 n 
-0000002540 00000 n 
-0000002928 00000 n 
-0000003316 00000 n 
-0000003704 00000 n 
-0000003933 00000 n 
-0000004265 00000 n 
-0000004597 00000 n 
-0000005080 00000 n 
-0000005563 00000 n 
-0000006046 00000 n 
-0000006529 00000 n 
-0000006769 00000 n 
-0000007006 00000 n 
-0000007311 00000 n 
-0000007684 00000 n 
-0000008057 00000 n 
-0000008430 00000 n 
-0000008741 00000 n 
-0000009052 00000 n 
-0000009305 00000 n 
-0000009375 00000 n 
-0000009659 00000 n 
-0000009734 00000 n 
-0000012238 00000 n 
-0000014835 00000 n 
+0000000135 00000 n 
+0000000242 00000 n 
+0000000354 00000 n 
+0000000473 00000 n 
+0000000771 00000 n 
+0000001069 00000 n 
+0000001305 00000 n 
+0000001604 00000 n 
+0000001903 00000 n 
+0000002184 00000 n 
+0000002465 00000 n 
+0000002727 00000 n 
+0000003046 00000 n 
+0000003365 00000 n 
+0000003591 00000 n 
+0000003979 00000 n 
+0000004367 00000 n 
+0000004755 00000 n 
+0000005486 00000 n 
+0000006217 00000 n 
+0000006948 00000 n 
+0000007679 00000 n 
+0000008410 00000 n 
+0000009141 00000 n 
+0000009872 00000 n 
+0000010101 00000 n 
+0000010433 00000 n 
+0000010765 00000 n 
+0000011098 00000 n 
+0000011581 00000 n 
+0000012064 00000 n 
+0000012547 00000 n 
+0000013030 00000 n 
+0000013270 00000 n 
+0000013386 00000 n 
+0000013759 00000 n 
+0000014132 00000 n 
+0000014505 00000 n 
+0000014740 00000 n 
+0000015021 00000 n 
+0000015091 00000 n 
+0000015375 00000 n 
+0000015450 00000 n 
+0000017868 00000 n 
+0000020899 00000 n 
 trailer
 <<
 /ID 
-[<3eb12250965f79b6d727527c6f0d17a3><3eb12250965f79b6d727527c6f0d17a3>]
+[<c9126fc092bc2b9169e6fc441d254f24><c9126fc092bc2b9169e6fc441d254f24>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 33 0 R
-/Root 32 0 R
-/Size 38
+/Info 42 0 R
+/Root 41 0 R
+/Size 47
 >>
 startxref
-16109
+23150
 %%EOF
