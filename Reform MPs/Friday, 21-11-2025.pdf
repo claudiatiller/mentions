@@ -28,34 +28,41 @@ endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/cn8vnv3dk0vo?at_medium=RSS&at_campaign=rss)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 608.3969 408.3199 619.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2025/nov/21/uk-politics-latest-news-labour-conservatives-keir-starmer-g20)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 553.0719 522.8269 565.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2025/nov/21/cryptocurrency-farage-donor-used-for-russian-war-effort)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 459.0719 485.8369 471.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/cvgkgyr4515o?at_medium=RSS&at_campaign=rss)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 444.3969 406.8169 455.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/news/audio/2025/nov/21/nazi-salutes-and-racism-the-allegations-about-nigel-farages-school-days-podcast)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 309.0719 530.8729 321.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2025/nov/21/starmer-calls-farage-spineless-racism-reform-uk)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 309.0719 454.7959 321.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/news/audio/2025/nov/21/nazi-salutes-and-racism-the-allegations-about-nigel-farages-school-days-podcast)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 297.0719 136.2229 309.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/spineless-nigel-farage-savaged-keir-36278079)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 201.0719 400.7959 213.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/cn8vnv3dk0vo?at_medium=RSS&at_campaign=rss)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 106.3969 408.3199 117.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -63,31 +70,69 @@ endobj
 >> /Type /Page
 >>
 endobj
-11 0 obj
-<<
-/PageMode /UseNone /Pages 13 0 R /Type /Catalog
->>
-endobj
 12 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20251121074132+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251121074132+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2025/nov/21/cryptocurrency-farage-donor-used-for-russian-war-effort)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 653.0719 485.8369 665.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/Count 1 /Kids [ 10 0 R ] /Type /Pages
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/news/audio/2025/nov/21/nazi-salutes-and-racism-the-allegations-about-nigel-farages-school-days-podcast)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 503.0719 530.8729 515.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1557
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/news/audio/2025/nov/21/nazi-salutes-and-racism-the-allegations-about-nigel-farages-school-days-podcast)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 491.0719 136.2229 503.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/Annots [ 12 0 R 13 0 R 14 0 R ] /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+16 0 obj
+<<
+/PageMode /UseNone /Pages 18 0 R /Type /Catalog
+>>
+endobj
+17 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20251121082348+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251121082348+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+18 0 obj
+<<
+/Count 2 /Kids [ 11 0 R 15 0 R ] /Type /Pages
+>>
+endobj
+19 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1920
 >>
 stream
-Gatm:D/\/e&H88.EM#.5Lh)@JjVOR,o%FgqJh1oh%o"e*&hS*h8<'G3H,"eu;)[dZWAS(&?lELQ]6dlP(d`bFYk_$dJBJi&DaOd:bSCa"quP#*_p.Q7YHrCbCc<\igckIf5ra]gGe'iu*XLN07jRZGd<GfA^^n<@BF(pWHInAt)gGm$WClsV$18kmNX<V"d-s`g&_nk-d`je6J.0+FoLS2;5L>?Tp^Unc_X&).`UB2O2HENLGX<`#N.rQ!F.$EA\/dE\LM6oGY_i!j$%u#YK\3SZPh8:Kj'g&Y=9R"L]o3s",!2aD:#lgY0LZFDO4>;1V?95ZG>g"pZ2SAb;CS3p3D:VFWC_-]6MDa@PqY?)1?ssA)"(9cq@E+@GS3X.$As#\BaVF"$ICDlds8n%I[J_T\T]s)"ZF@Y&a4YT]Y+(N^WA?\c)K),<<X\t)Khc?Yna#;6H]<$>#$SNE5N>a7?^^>B=DQQPk6#4X`4U.MU+@q4ZEmGX0Y*]GRG"%N!+oT038V/&B%L6VGRaDmUdI@PKn`s_n`UKJH^WS-l>ZuOc)B9ErfV[0b$.n5gtl8X2kJU[/haT=EEPGc9S-VQq20tMH7$3LW"hm><GCbcc#>n_IQ;\f[---;sA#2^L",Bq)n0\=nW#'lTS<>-YD.0`-<S/;7[0:nlKT*-s=^Yo)7UtPG@n#\):"JbDPja]N;ZHahu4,M[V[h)f,"b:VSJ#h^fciC8t0rh06A,S'&gJ<XOuF^ml`EMuEouWNqKo9eR6#%CO4=a;Je/];>qf!hYkOD+-T?<_OI(;'V>19fF)-NB0#DPCaiNK4#UZDLrpg3X@c1Y%VEfPd-?DL=9WUCD<b1Yb2:mX(+X'NQn_=@'Diq'6J-bXf4kH]O<=jnOFhlK&UL!BU)K"9nP.6I#$o5`QA66EWO9d9]8"tW-b,@U8@7F&>EUY1MfY&ETm<XB1t971#JK9<D2L-hL]CN!H*"s0?km]pkCFpKg43M>UjQ$3epd)qd=Ph:MkZi5Zr(Xruu5V[=NISk-\#7fJ'=K-Kl>Ti?GVm,RR30^tUC,^UsQR`njkP3W-\=#]\FAT^d0ZUNPH$WA!>4:W!)SingD\en`Y)/;>4/jXFgI&)m)L*BKE=38s>BgHEa5q?Oq&d,4Ti+--75[6Xt"]ckI%QW#CiTLH[Pl82)qZ8Mq3Em;d!$2#i\!SDDZa=$M<^.P7/eK&DE$ebRBo;M2)d*:`NQbdh"kI5>D<HZ7g7**/d?*&=7_j.UM0i[k(iDh9p_ridX=s56sjlI7Q$Z\>ngurO5am^F^?D'C@H7d&N?!-8J$6Ds1i(X#e9lVcC;D&a;,S[:UB,VhY_=VX3^s$P2]/54!.gg2DjBB?N(St3],u[!4@Q&ksL%f7mRfGM**lP\K9%KB"gjh;+`aLa5La.%P6c(pWah_6jI@GBOZ$B1`q=)dtR0"97-bkfjm.D1;'jc*,8aTdm90Q&mRCjg7[Gf$^Is&DnjE8W,J`d45`G>G3TjKqF(CuRRHZnotIQ_-,dP_<sl"!kmV:)\fnN%VBN$`mG!RCZJ;\tgU~>endstream
+Gatm<gN)%,&:Ml+lr2rOTgXtTFd^?nOu.>;M)0%N:*/[o#9k;t'aZPo.7O43/c_%I("m%K[VU6-bO1rbB@#!/I/G>bGFS]HQpLb8!"!&A!&EaI@.k(:boV:^<#ljG"-[%jIGPq>A.fJ6ITK0`!NGK.#%;EiN^jWjH9N4,L+pg/iXa2\*IM6&WA=87/R72K2%p.[6Gm(?NSm_)K^PEui!2W1&2,0oo,G8O5b>dX?^Ue,ZM5+)X(+Ra0:E"W!i+_QLUg*_/j/LT_sOgY(mm_fQN7Y%<tLb)*_NLKoQ8aD0J!:h?H82'-F/8MCa3:A_%\J'EiO;44:OWe]6I=*RBulS.2")tSiBD5OO57YYmS'H=fRkR.0QCU.21.*I.Dr(4?O!_i!Kf1mb!,_V^Z;GbP=8p+ZUL]!*''_+2mu%[UO2U;O)2N5/DS\\j\>3MbD$I*Gd`J6IROBBo$>T3%_Yg`Dajfi4<;'ZoLN1Sq(:\</$'n.k[3$FlF2gRo?G5^]c^e5qo=K=9?`g,rZ\0/dNXgR9ZW%i3A$$Dche;_t0-p>TL0Z8"Lhp#eZKCb8%o-178W,E-4<*+*\Vsc3LM^9%oEbnc.N!'+$NJ2V;I*ABTKQ#'#O9G\i.'VK5lUJ.t7N;qi)$i]6_-=BU/':m$9QW*rC&9]KC80NJ0T;C7Js-#<tY/mFXq;[Q[la.0#2rKsL'ffR"\4>T+^8/&HB3Htllk"N_;>c:ajeIL:m+FT+^fDDob#ur*>QZC!.aDd_YN&"*WmN?DgVJR!PiZ<1acgWI<*7%t6_RbF7gHdd]<^i/:BtqF=DL7c)ZB@uoC[]l*oaQKLL08pJ2uS:!bI(CnoWY#_(EOo@rl.\`0?+2P[6]=%9RCQpQ)>4lN%&Z_p`6@@LCXoj+ZUN3?VA>bF$Cg_;WEj`n`&XX\96I)k0$X3QW+haH#,:KcoJt71@7&FnJFs/@"mZ69fM/8'TKZKOPuF:*G4#5Edi+R=11=K(=5Y+K;eZ$4]8_VV)R!kj1*U?5mV6BZ2g>tcR$"?*Kkim&I$S/]10gp4#7;s^^EC^TJY:6B*$jJ_s:aCioscTZp7WnUeH+UWZ$Qb2;_<e0tSTT/VZ18kO[>HgsEK*'f$XghN'V=ol?r7a=m?N/cNjo_TV<!LYH%RKjWUS*f4Ts;n`slPjZD=K8&7U$3%Cb.M'$qc0Q;;DVA^"El2WR2D(a5)Qt`h.m@G^X+_ok7!@b:_KG9Z&pl=OURd2]"s"D#g9PT17sAW.rdN*ZcUt:kSX"UUEO=D1'^^P\]k,@'k7"JiFMma*`J34=WaRh&EEX]6VNt\jX/fUN<5u:5V7abJfeh!-G,e3n4^YMe5^RQa\n,^CYaY`R`WXGcjcMI_'-0!NAD7K6@/q\ck^tAA0U`p#2PiF3DA;u%$(8!XSB&W_pX7$_=L65=6&e9f#(FPcTBTF4<`L*"'nj'#=F(F(Sccu2Q2t=&5+an84KRXP7)%9Cgf)6N=%]Jg[3+3Gqb`7eRVo&IiI'8>O]?YVG-AX1S*CdW%>Q[WV'EgB(N(+k3)lI<0FSs;ol&3kO"^:Qa0,uHan`2_O0(G8?e=R]+f9=k[X4e@18`FCK[g<2SA=718g.c(!g"u+qJZA?)@Cl=AX44C'9,!@)%9r%^/-qh7]*[3j10?TbS[BWhb&SaTGp$7b_/ZMp\""%:1cM@ZK[WiB7c+hp>QX<BT6UDdG-c!7_rd)O!YmQ*JY0KKgb[hH)Fs9[G8X>'eT(L4@`5U`[pe3P-HZHD/-4=S/*[ki&F]aqbV$E-K&/!H'd\ndTStdN;h3]#c;%[c2'uX3Uhljc2_;H?>"=m.=:AJDto-EC$._f'&!0n_W$,B3;1bBcus;uHUM9`J.eUfpQ3p6D'T%n48TPlD.:-iRkS"BS"I:#NNLRI6cWJWoKRc/2!P~>endstream
+endobj
+20 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1165
+>>
+stream
+Gatm9968iG&AJ$Clr!-e,XL_[>9$/$9Oa'P18guSLg6+A83d>DBp`8b"\G\Zm>f^la(%aH[+tUd.h30inG[@W!8OF_XuYtgdK92#QpUWQ5,;80?B$m:J$B@Cj*<>:phJ+5q5Yrm!?[r*`(@1,Q4$6\6,[Do)5I^8mY%Z'pkjb`%=J$]pQ'9Sb"8]dI#mFu=<!ZdmMb(5Sh\Mnb_Pd[;'NqC62Ch^5PlmYU%s_^k&E(^`@DFV)%UDH(#bnQW4tM<Mgh"AP&MEDNs<NDfAsEJ6MT1?P=qTuL\I\#3M!RtTZT=JLhqu0CcYZ+j%%5!dKZM$f$ZRpJZl2`<!ik=!"1i-f>hkY;XMjm=UM'd"Y7/?+Kn.(hM*d+OA*u_&;A%ELBkN]BnU/C'1FiW$m4re[i<ZVX1'%oLX,h1F,I+e"&<csoIP*bEr$"JOi^cfi=Kg+@>!Jfi;f.qeEH-ng#)kc$VPD':gGZO)MtRc/*qS:l/=!Z59"ERWSee-s.g@ZJM,kHQ<93RI?3F@_FBh;aY@IBTb;I#W!4\bh?rT).-IR:+j8#ZFLKe&PX6jG_RHY@2g>e@7QP66GTh//hH(6)!u*WG8eV&GAO!25Cj0E>:R-J@Ks@P1c?)sLI[nUnU^M9kiVhr%N$(.'[d$kNHdsV/G4m6k%u3M;'UN;6JkS,^:6TWPZ_9<UW:W94H$IUo.sbr5cR/6'1(oM5+V'Ip@RD+fJ<7uM&75B%oG$=9Yo\l!GIW_-I?Et'nO&I'FmI,"hJYff[*=Rh)2PlD;@K-2)r8(]'D4=3K9aO(>1Z"ibO;WZIZeWIo1[dE0[H'b?d=j!kL!j$TCMrOo/1B'b5&3radO&eE7`YGR8r`_HfgE[]gla(:4]Tj[e3,8C*B&kSY"p49;"cNQl1O5<%*/1`/2%H8?leD%[HKL`AoE)2LmkTY;P,#U7`f@E(<*un;*+EqqrIVALm_F(3%(#Am;)B$49opX:\Yn!Sl*[e*'s.7-U$<-/B@e1je',E4Q/;KQ/&m#Or.=>"HEV<<Za:U-&R-lJtnD+J&`*ahu>RJq[#<h8#6Q,,CoN7ba%!H<7d3i,nd"^mBW8Z[\HhKa/QS2OF7ko8<+U`k4"J$QJZRW16#-$g[Isb/\'u%$oT5"Og#cHs51A!LYR'-VFKCrW5]3Hjp~>endstream
 endobj
 xref
-0 15
+0 21
 0000000000 65535 f 
 0000000073 00000 n 
 0000000134 00000 n 
@@ -95,24 +140,30 @@ xref
 0000000353 00000 n 
 0000000472 00000 n 
 0000000587 00000 n 
-0000000815 00000 n 
-0000001071 00000 n 
-0000001353 00000 n 
-0000001635 00000 n 
-0000001877 00000 n 
-0000001947 00000 n 
-0000002231 00000 n 
-0000002292 00000 n 
+0000000854 00000 n 
+0000001082 00000 n 
+0000001330 00000 n 
+0000001565 00000 n 
+0000001794 00000 n 
+0000002043 00000 n 
+0000002300 00000 n 
+0000002583 00000 n 
+0000002866 00000 n 
+0000003105 00000 n 
+0000003175 00000 n 
+0000003459 00000 n 
+0000003527 00000 n 
+0000005539 00000 n 
 trailer
 <<
 /ID 
-[<d3f6a2fa25ffe144dd86fd93108973d0><d3f6a2fa25ffe144dd86fd93108973d0>]
+[<fa225324d6e20f9e2016dcec58241a39><fa225324d6e20f9e2016dcec58241a39>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 12 0 R
-/Root 11 0 R
-/Size 15
+/Info 17 0 R
+/Root 16 0 R
+/Size 21
 >>
 startxref
-3941
+6796
 %%EOF
